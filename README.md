@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/most-used-languages.svg" alt="Most Used Languages" width="600">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraaH2&layout=compact" width="600">
 </p>
 
 ---
