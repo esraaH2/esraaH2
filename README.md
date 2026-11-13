@@ -29,42 +29,6 @@
 
 <br/>
 
-<!-- ═══════════════ HIGHLIGHTS ═══════════════ -->
-<h2 align="center">🏆 Highlights</h2>
-
-<table align="center">
-<tr>
-<td>
-
-- 📄 **IEEE ICSPC 2026**: Presented *"DrowSim: A Privacy-Preserving Client–Server Framework for Real-Time Driver Drowsiness Detection Using Hybrid Rule-Based and BiLSTM-Attention Learning"* (IEEE Xplore, Scopus-indexed)
-- 🎤 **Guest Speaker, Hack The Box × UniKL MIIT (Oct 2026)**: Talk on *Red Teaming with Hack The Box* plus a live hands-on lab walkthrough
-- 🚀 **AI Talent Bootcamp 2026**: Top 8 of 15 teams with **Melur AI**, an AI-powered credit-risk assessment platform for financial inclusion
-- 🔐 **HTB Academy**: Completed Footprinting, Information Gathering (Web Edition) and Vulnerability Assessment modules
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---:|
-| 🚗 [**DrowSim**](https://github.com/esraaH2/DrowSim-FYP) | Privacy-preserving, real-time driver drowsiness detection (hybrid rule-based + BiLSTM-Attention). IEEE-published final-year project | Python · DL |
-| 🧠 [**Drowsiness Detection Model**](https://github.com/esraaH2/drowsiness-detection-model) | BiLSTM model for drowsiness detection with a 94.27% F1-score | Python · BiLSTM |
-| 🎣 [**Phishing URL Detection**](https://github.com/esraaH2/-Phishing-URL-Detection-Under-Selective-Percent-Encoding) | Leakage-safe ML pipeline on 800K+ URLs, testing six models' robustness to percent-encoding, host-case and port changes | Python · TensorFlow |
-| 📱 [**Phishing Detection App**](https://github.com/esraaH2/Phishing-URL-Detection-Mobile-app) | Android app for detecting phishing URLs | Kotlin |
-| ⚖️ [**CausalFairDP**](https://github.com/esraaH2/CausalFairDP) | Diffusion model that generates fair, differentially private and causally consistent synthetic tabular data | PyTorch · Opacus |
-| 🌐 [**CCNA Project**](https://github.com/esraaH2/CCNA_2_Project) | Cisco CCNA networking project | Cisco |
-
-</div>
-
-<br/>
-
 <!-- ═══════════════ SKILLS ═══════════════ -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
